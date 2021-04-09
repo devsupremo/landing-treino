@@ -1,3 +1,11 @@
+2 Landing pages que fiz pra praticar css.
+
+![landing1](https://user-images.githubusercontent.com/78659480/114230735-e649e280-994f-11eb-83e8-00f6de417b62.PNG)
+
+![landing2](https://user-images.githubusercontent.com/78659480/114230744-e944d300-994f-11eb-8757-c3bc73d7bf57.PNG)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
